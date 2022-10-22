@@ -5,6 +5,8 @@
 ---
 [Левые крусы от Димона](https://s1.sliwbl.com/)
 ---
+[про професии аналитиков и data science](https://netology.ru/profile/program/dfe-8/lessons/162358/lesson_items/842944)
+---
 vpn:
 ---
 [vpn1](https://rus.windscribe.com/download) 
