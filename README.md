@@ -7,6 +7,8 @@
 ---
 [про професии аналитиков и data science](https://netology.ru/profile/program/dfe-8/lessons/162358/lesson_items/842944)
 ---
+[статьи про статистику и машинное обучение](https://netology.ru/profile/program/dfe-8/lessons/151122/lesson_items/843865)
+---
 vpn:
 ---
 [vpn1](https://rus.windscribe.com/download) 
