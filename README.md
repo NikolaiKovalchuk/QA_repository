@@ -16,5 +16,7 @@ vpn:
 [vpn2](https://atlasvpn.com/vpn-for-windows?shortlink=58f6a4cf&pid=website&c=website-inner-link&is_retargeting=true)
 ---
 [vpn отВарламыча VPN](https://order.surfshark.com/)
-
+---
+[JSON & XML](https://dzen.ru/media/itgap/json-vs-xml-sravnenie-tehnologii-i-oblasti-primeneniia-5db1bd5178125e00ad55568e)
+---
 
